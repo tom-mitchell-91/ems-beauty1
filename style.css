@@ -4,3 +4,15 @@
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
 }
+
+body {
+    height: 100vh;
+    background-color: #000;
+    background-image: url(https://img.freepik.com/free-vector/detailed-hand-painted-pink-watercolour-background_1048-17039.jpg?w=1480&t=st=1684242610~exp=1684243210~hmac=16bc8a9f113a857eac5152a11a486b608b9bea2fb9de86539cfdc74d690ea83a);
+    background-size: cover;
+    background-position: center;
+}
+
+li {
+    list-style: none;   
+}
